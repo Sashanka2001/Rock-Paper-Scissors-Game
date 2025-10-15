@@ -19,7 +19,7 @@ class ModernRockPaperScissorsGUI:
         self.max_rounds = 5
         self.is_playing = False
         
-        # Emoji mappings
+        # Emoji mapping
         self.emojis = {'rock': '🪨', 'paper': '📄', 'scissors': '✂️'}
         self.choices = ['rock', 'paper', 'scissors']
         
