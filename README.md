@@ -147,27 +147,4 @@ Animation speeds and effects can be adjusted by modifying the timer values in th
 - Update your graphics drivers
 - Try running with different Python versions
 
-## 🤝 Contributing
-
-Feel free to contribute to this project by:
-- Adding new themes
-- Improving animations
-- Fixing bugs
-- Adding new features
-
-## 📄 License
-
-This project is open source and available under the MIT License.
-
-## 🎉 Acknowledgments
-
-- Inspired by the classic Rock Paper Scissors game
-- Modern web design principles
-- Cyberpunk aesthetic trends
-- Python Tkinter community
-
----
-
-**Enjoy playing! 🎮✨**
-
-*Choose your style: Go cyberpunk with neon effects or keep it clean with modern gradients!*
+ 
