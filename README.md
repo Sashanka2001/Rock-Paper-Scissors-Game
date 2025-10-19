@@ -130,6 +130,7 @@ Rock_Paper_Scissors_game/
 ### Colors
 
 Both versions use customizable color schemes defined in the `colors` dictionary. You can easily modify:
+
 - Background gradients
 - Button colors
 - Text colors
