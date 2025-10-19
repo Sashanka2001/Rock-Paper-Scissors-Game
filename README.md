@@ -168,7 +168,6 @@ Animation speeds and effects can be adjusted by modifying the timer values in th
 ## 🤝 Contributing
 
 Feel free to contribute to this project by:
-
 - Adding new themes
 - Improving animations
 - Fixing bugs
@@ -187,6 +186,6 @@ This project is open source and available under the MIT License.
 
 ---
 
-## Enjoy playing! 🎮✨
+**Enjoy playing! 🎮✨**
 
 *Choose your style: Go cyberpunk with neon effects or keep it clean with modern gradients!*
