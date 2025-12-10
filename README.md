@@ -174,9 +174,6 @@ Feel free to contribute to this project by:
 - Fixing bugs
 - Adding new features
 
-## 📄 License
-
-This project is open source and available under the MIT License.
 
 ---
 
