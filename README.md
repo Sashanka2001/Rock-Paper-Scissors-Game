@@ -178,13 +178,6 @@ Feel free to contribute to this project by:
 
 This project is open source and available under the MIT License.
 
-## 🎉 Acknowledgments
-
-- Inspired by the classic Rock Paper Scissors game
-- Modern web design principles
-- Cyberpunk aesthetic trends
-- Python Tkinter community
-
 ---
 
  
