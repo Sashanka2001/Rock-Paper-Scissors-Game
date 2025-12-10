@@ -160,13 +160,6 @@ Animation speeds and effects can be adjusted by modifying the timer values in th
 - Install Pillow: `pip install pillow`
 - Verify PIL import: `python -c "from PIL import Image"`
 
-**Display issues:**
-
-- Update your graphics drivers
-- Try running with different Python versions
-
-
-
 ---
 
  
