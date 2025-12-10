@@ -165,14 +165,6 @@ Animation speeds and effects can be adjusted by modifying the timer values in th
 - Update your graphics drivers
 - Try running with different Python versions
 
-## 🤝 Contributing
-
-Feel free to contribute to this project by:
-
-- Adding new themes
-- Improving animations
-- Fixing bugs
-- Adding new features
 
 
 ---
