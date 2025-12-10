@@ -187,6 +187,4 @@ This project is open source and available under the MIT License.
 
 ---
 
-## Enjoy playing! 🎮✨
-
-*Choose your style: Go cyberpunk with neon effects or keep it clean with modern gradients!*
+ 
